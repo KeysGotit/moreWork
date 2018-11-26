@@ -1,0 +1,13 @@
+.major {
+    background-color: blue;
+    color: rosybrown;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition-delay: 2.s;
+}
+
+.p { 
+    background-color: brown; 
+    color: aqua; 
+    font-size: 3rem
+}
